@@ -1,0 +1,82 @@
+body{
+    background: url('../../images/background4.jpg');
+    /*background-color:#eee;*/
+}
+.navbar-fixed-top {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.elements{
+  padding-top: 300px;
+}
+
+#chart {
+  margin-top: 100px;
+    background: white;
+  padding-left: 10px;
+
+}
+text {
+  font-size: 14px;
+  font-family: sans-serif;
+
+}
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.9);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+#jsonTable{
+    margin-top: 100px;
+    text-align: center;
+  /*float: left;*/
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+.bar {
+  fill:rgba(0, 0, 0, 0.9);
+  /*width: 50%;*/
+}
+
+.bar:hover {
+  fill: lightpink;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+  margin-top: 5px;
+}

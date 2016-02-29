@@ -1,0 +1,177 @@
+[
+    {
+        "state": "State - JAMMU & KASHMIR",
+        "Males": 426555,
+        "Females": 265929
+    },
+    {
+        "state": "State - HIMACHAL PRADESH",
+        "Males": 293449,
+        "Females": 223652
+    },
+    {
+        "state": "State - PUNJAB",
+        "Males": 960456,
+        "Females": 959213
+    },
+    {
+        "state": "State - CHANDIGARH",
+        "Males": 111494,
+        "Females": 94542
+    },
+    {
+        "state": "State - UTTARAKHAND",
+        "Males": 568963,
+        "Females": 433434
+    },
+    {
+        "state": "State - HARYANA",
+        "Males": 1183849,
+        "Females": 810751
+    },
+    {
+        "state": "State - NCT OF DELHI",
+        "Males": 1636077,
+        "Females": 1282115
+    },
+    {
+        "state": "State - RAJASTHAN",
+        "Males": 2461922,
+        "Females": 1064619
+    },
+    {
+        "state": "State - UTTAR PRADESH",
+        "Males": 7086446,
+        "Females": 3811759
+    },
+    {
+        "state": "State - BIHAR",
+        "Males": 2471458,
+        "Females": 764190
+    },
+    {
+        "state": "State - SIKKIM",
+        "Males": 24812,
+        "Females": 18036
+    },
+    {
+        "state": "State - ARUNACHAL PRADESH",
+        "Males": 58823,
+        "Females": 28114
+    },
+    {
+        "state": "State - NAGALAND",
+        "Males": 96513,
+        "Females": 68531
+    },
+    {
+        "state": "State - MANIPUR",
+        "Males": 178447,
+        "Females": 115688
+    },
+    {
+        "state": "State - MIZORAM",
+        "Males": 56437,
+        "Females": 38959
+    },
+    {
+        "state": "State - TRIPURA",
+        "Males": 107556,
+        "Females": 58240
+    },
+    {
+        "state": "State - MEGHALAYA",
+        "Males": 77020,
+        "Females": 77942
+    },
+    {
+        "state": "State - ASSAM",
+        "Males": 718327,
+        "Females": 411992
+    },
+    {
+        "state": "State - WEST BENGAL",
+        "Males": 3463977,
+        "Females": 1891297
+    },
+    {
+        "state": "State - JHARKHAND",
+        "Males": 1039975,
+        "Females": 492195
+    },
+    {
+        "state": "State - ODISHA",
+        "Males": 1303987,
+        "Females": 661902
+    },
+    {
+        "state": "State - CHHATTISGARH",
+        "Males": 799269,
+        "Females": 417319
+    },
+    {
+        "state": "State - MADHYA PRADESH",
+        "Males": 2311433,
+        "Females": 1279956
+    },
+    {
+        "state": "State - GUJARAT",
+        "Males": 2083498,
+        "Females": 1388297
+    },
+    {
+        "state": "State - DAMAN & DIU",
+        "Males": 8774,
+        "Females": 4575
+    },
+    {
+        "state": "State - DADRA & NAGAR HAVELI",
+        "Males": 13880,
+        "Females": 7899
+    },
+    {
+        "state": "State - MAHARASHTRA",
+        "Males": 5730823,
+        "Females": 3774694
+    },
+    {
+        "state": "State - ANDHRA PRADESH",
+        "Males": 4125374,
+        "Females": 2182506
+    },
+    {
+        "state": "State - KARNATAKA",
+        "Males": 2799580,
+        "Females": 1696871
+    },
+    {
+        "state": "State - GOA",
+        "Males": 77010,
+        "Females": 75121
+    },
+    {
+        "state": "State - LAKSHADWEEP",
+        "Males": 2682,
+        "Females": 1606
+    },
+    {
+        "state": "State - KERALA",
+        "Males": 1187364,
+        "Females": 1474710
+    },
+    {
+        "state": "State - TAMIL NADU",
+        "Males": 3495384,
+        "Females": 2577695
+    },
+    {
+        "state": "State - PUDUCHERRY",
+        "Males": 87072,
+        "Females": 67712
+    },
+    {
+        "state": "State - ANDAMAN & NICOBAR ISLANDS",
+        "Males": 13832,
+        "Females": 10748
+    }
+]

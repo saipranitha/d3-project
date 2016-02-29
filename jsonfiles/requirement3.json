@@ -1,0 +1,42 @@
+[
+    {
+        "educationLevel": "Literate without educational level",
+        "population": 128753064
+    },
+    {
+        "educationLevel": "Below Primary",
+        "population": 563768514
+    },
+    {
+        "educationLevel": "Primary",
+        "population": 690860370
+    },
+    {
+        "educationLevel": "Middle",
+        "population": 495257859
+    },
+    {
+        "educationLevel": "Matric/Secondary",
+        "population": 371909994
+    },
+    {
+        "educationLevel": "Higher secondary/Intermediate/Pre-University/Senior secondary",
+        "population": 270479367
+    },
+    {
+        "educationLevel": "Non-technical diploma or certificate not equal to degree",
+        "population": 3488784
+    },
+    {
+        "educationLevel": "Technical diploma or certificate not equal to degree",
+        "population": 24870249
+    },
+    {
+        "educationLevel": "Graduate & above",
+        "population": 226785981
+    },
+    {
+        "educationLevel": "Unclassified",
+        "population": 11318664
+    }
+]
